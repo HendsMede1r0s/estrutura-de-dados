@@ -1,0 +1,5 @@
+nome = input("Qual o seu nome?")
+idade = input("qual a sua idade?")
+salario = input("qual o seu salario?")
+print("parabens, dados cadastrados")
+print(f"voce é {nome}, tem {idade} anos de idade e ganha {salario} reais")
